@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <idMovie>M002</idMovie>
+    <title>Back to the Future</title>
+    <year>1985</year>
+    <Directors>
+        <idDirector>D003</idDirector>
+        <Name>Robert Zemeckis</Name>
+        <DoB>22/02/1977</DoB>
+        <Address>California</Address>
+        <Telephone>67868568</Telephone>
+    </Directors>
+    <Writers>
+        <idWriter>W003</idWriter>
+        <Name>Robert Zemeckis</Name>
+        <DoB>22/02/1977</DoB>
+        <Address>California</Address>
+        <Telephone>33368568</Telephone>
+    </Writers>
+    <Writers>
+        <idDirector>w004</idDirector>
+        <Name>Bob Gale</Name>
+        <DoB>12/02/1973</DoB>
+        <Address>New York</Address>
+        <Telephone>62399938</Telephone>
+    </Writers>
+    <Stars>
+        <idStar>S004</idStar>
+        <Name>Michael J. Fox</Name>
+        <DoB>22/01/1999</DoB>
+        <Address>Bei Jing</Address>
+        <Telephone>67863448</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S005</idStar>
+        <Name>Christopher Lloyd</Name>
+        <DoB>12/04/1988</DoB>
+        <Address>Nan Jing</Address>
+        <Telephone>62477738</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S006</idStar>
+        <Name>Lea Thompson</Name>
+        <DoB>12/05/1974</DoB>
+        <Address>Tokyo</Address>
+        <Telephone>62447711</Telephone>
+        <Total></Total>
+    </Stars>
+</root>

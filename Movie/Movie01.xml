@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <idMovie>M001</idMovie>
+    <title>The Matrix</title>
+    <year>1999</year>
+    <Directors>
+        <idDirector>D001</idDirector>
+        <Name>Andy Wachowski</Name>
+        <DoB>22/02/1964</DoB>
+        <Address>California</Address>
+        <Telephone>67868568</Telephone>
+    </Directors>
+    <Directors>
+        <idDirector>D002</idDirector>
+        <Name>Lana Wachowski</Name>
+        <DoB>12/02/1963</DoB>
+        <Address>New York</Address>
+        <Telephone>62368238</Telephone>
+    </Directors>
+    <Writers>
+        <idWriter>W001</idWriter>
+        <Name>Andy Wachowski</Name>
+        <DoB>22/02/1964</DoB>
+        <Address>California</Address>
+        <Telephone>67868568</Telephone>
+    </Writers>
+    <Writers>
+        <idDirector>w002</idDirector>
+        <Name>Lana Wachowski</Name>
+        <DoB>12/02/1963</DoB>
+        <Address>New York</Address>
+        <Telephone>62368238</Telephone>
+    </Writers>
+    <Stars>
+        <idStar>S001</idStar>
+        <Name>Keanu Reeves</Name>
+        <DoB>22/01/1964</DoB>
+        <Address>San Francisco</Address>
+        <Telephone>67863338</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S002</idStar>
+        <Name>Laurence Fishburne</Name>
+        <DoB>12/04/1963</DoB>
+        <Address>Nan Jing</Address>
+        <Telephone>62444238</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S003</idStar>
+        <Name>Carrie Fisher</Name>
+        <DoB>12/05/1964</DoB>
+        <Address>Tokyo</Address>
+        <Telephone>62447738</Telephone>
+        <Total></Total>
+    </Stars>
+</root>

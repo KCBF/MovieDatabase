@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <idMovie>M003</idMovie>
+    <title>Avatar</title>
+    <year>2009</year>
+    <Directors>
+        <idDirector>D004</idDirector>
+        <Name>James Cameron</Name>
+        <DoB>22/07/1964</DoB>
+        <Address>California</Address>
+        <Telephone>67998568</Telephone>
+    </Directors>
+    <Writers>
+        <idWriter>W005</idWriter>
+        <Name>James Cameron</Name>
+        <DoB>22/07/1964</DoB>
+        <Address>California</Address>
+        <Telephone>67998568</Telephone>
+    </Writers>
+    <Stars>
+        <idStar>S008</idStar>
+        <Name>Sam Worththington</Name>
+        <DoB>12/04/1977</DoB>
+        <Address>Bei Jing</Address>
+        <Telephone>62441118</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S002</idStar>
+        <Name>Zoe Saldana</Name>
+        <DoB>12/04/1963</DoB>
+        <Address>Nan Jing</Address>
+        <Telephone>62444238</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S009</idStar>
+        <Name>Signourney Weaver</Name>
+        <DoB>12/11/1966</DoB>
+        <Address>Tokyo</Address>
+        <Telephone>62447218</Telephone>
+        <Total></Total>
+    </Stars>
+</root>

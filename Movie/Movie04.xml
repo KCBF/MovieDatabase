@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <idMovie>M004</idMovie>
+    <title>Pulp Fiction</title>
+    <year>1994</year>
+    <Directors>
+        <idDirector>D005</idDirector>
+        <Name>Quentin Tarantino</Name>
+        <DoB>11/02/1974</DoB>
+        <Address>California</Address>
+        <Telephone>67328568</Telephone>
+    </Directors>
+    <Writers>
+        <idWriter>W006</idWriter>
+        <Name>Quentin Tarantino</Name>
+        <DoB>11/02/1974</DoB>
+        <Address>California</Address>
+        <Telephone>67328568</Telephone>
+    </Writers>
+    <Writers>
+        <idDirector>w007</idDirector>
+        <Name>Roger Avary</Name>
+        <DoB>23/02/1978</DoB>
+        <Address>New York</Address>
+        <Telephone>62765238</Telephone>
+    </Writers>
+    <Stars>
+        <idStar>S010</idStar>
+        <Name>John Travolta</Name>
+        <DoB>22/01/1978</DoB>
+        <Address>Bei Jing</Address>
+        <Telephone>67345338</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S011</idStar>
+        <Name>Uma Thurman</Name>
+        <DoB>12/04/1983</DoB>
+        <Address>Nan Jing</Address>
+        <Telephone>62441238</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S012</idStar>
+        <Name>Samuel L. Jackson</Name>
+        <DoB>12/05/1977</DoB>
+        <Address>Tokyo</Address>
+        <Telephone>62412348</Telephone>
+        <Total></Total>
+    </Stars>
+</root>

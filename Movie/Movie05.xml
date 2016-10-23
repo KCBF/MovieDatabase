@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<root>
+    <idMovie>M005</idMovie>
+    <title>Star Wars</title>
+    <year>1977</year>
+    <Directors>
+        <idDirector>D006</idDirector>
+        <Name>George Lucas</Name>
+        <DoB>22/02/1957</DoB>
+        <Address>California</Address>
+        <Telephone>67868123</Telephone>
+    </Directors>
+    <Writers>
+        <idWriter>W007</idWriter>
+        <Name>George Lucas</Name>
+        <DoB>22/02/1957</DoB>
+        <Address>California</Address>
+        <Telephone>67868123</Telephone>
+    </Writers>
+    <Stars>
+        <idStar>S013</idStar>
+        <Name>Mark Hamill</Name>
+        <DoB>12/05/1969</DoB>
+        <Address>Bei Jing</Address>
+        <Telephone>65444248</Telephone>
+        <Total></Total>
+    </Stars>
+    <Stars>
+        <idStar>S014</idStar>
+        <Name>Harrison Ford</Name>
+        <DoB>12/05/1974</DoB>
+        <Address>Nan Jing</Address>
+        <Telephone>62489038</Telephone>
+        <Total></Total>
+    </Stars>
+</root>
