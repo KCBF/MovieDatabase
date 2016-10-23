@@ -1,0 +1,67 @@
+db.mdata.insert(
+{
+    "idMovie": "M001",
+    "title": "The Matrix",
+    "year": "1999",
+    "Directors": [
+
+        {
+            "idDirector": "D001",
+            "Name": "Andy Wachowski",
+            "DoB": "22/02/1964",
+            "Address": "California",
+            "Telephone": "67868568"
+        },
+
+        {
+            "idDirector": "D002",
+            "Name": "Lana Wachowski",
+            "DoB": "12/02/1963",
+            "Address": "New York",
+            "Telephone": "62368238"
+        }
+
+    ],
+
+    "Writers": [
+
+        {
+            "idWriter": "W001",
+            "Name": "Andy Wachowski",
+            "DoB": "22/02/1964",
+            "Address": "California",
+            "Telephone": "67868568"
+        },
+
+        {
+            "idDirector": "w002",
+            "Name": "Lana Wachowski",
+            "DoB": "12/02/1963",
+            "Address": "New York",
+            "Telephone": "62368238"
+        }
+    ],
+
+    "Stars": [{
+        "idStar": "S001",
+        "Name": "Keanu Reeves",
+        "DoB": "22/01/1964",
+        "Address": "San Francisco",
+        "Telephone": "67863338",
+        "Total": " "
+    }, {
+        "idStar": "S002",
+        "Name": "Laurence Fishburne",
+        "DoB": "12/04/1963",
+        "Address": "Nan Jing",
+        "Telephone": "62444238",
+        "Total": " "
+    }, {
+        "idStar": "S003",
+        "Name": "Carrie Fisher",
+        "DoB": "12/05/1964",
+        "Address": "Tokyo",
+        "Telephone": "62447738",
+        "Total": " "
+    }]
+});

@@ -1,0 +1,52 @@
+db.mdata.insert(
+{
+    "idMovie": "M003",
+    "title": "Avatar",
+    "year": "2009",
+    "Directors": [
+
+        {
+            "idDirector": "D004",
+            "Name": "James Cameron",
+            "DoB": "22/07/1964",
+            "Address": "California",
+            "Telephone": "67998568"
+        }
+
+    ],
+
+    "Writers": [
+
+        {
+            "idWriter": "W005",
+            "Name": "James Cameron",
+            "DoB": "22/07/1964",
+            "Address": "California",
+            "Telephone": "67998568"
+        }
+
+    ],
+
+    "Stars": [{
+        "idStar": "S008",
+        "Name": "Sam Worththington",
+        "DoB": "12/04/1977",
+        "Address": "Bei Jing",
+        "Telephone": "62441118",
+        "Total": " "
+    }, {
+        "idStar": "S002",
+        "Name": "Zoe Saldana",
+        "DoB": "12/04/1963",
+        "Address": "Nan Jing",
+        "Telephone": "62444238",
+        "Total": " "
+    }, {
+        "idStar": "S009",
+        "Name": "Signourney Weaver",
+        "DoB": "12/11/1966",
+        "Address": "Tokyo",
+        "Telephone": "62447218",
+        "Total": " "
+    }]
+});

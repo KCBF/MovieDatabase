@@ -1,0 +1,59 @@
+db.mdata.insert(
+{
+    "idMovie": "M002",
+    "title": "Back to the Future",
+    "year": "1985",
+    "Directors": 
+
+        {
+            "idDirector": "D003",
+            "Name": "Robert Zemeckis",
+            "DoB": "22/02/1977",
+            "Address": "California",
+            "Telephone": "67868568"
+        }
+
+    ,
+
+    "Writers": [
+
+        {
+            "idWriter": "W003",
+            "Name": "Robert Zemeckis",
+            "DoB": "22/02/1977",
+            "Address": "California",
+            "Telephone": "33368568"
+        },
+
+        {
+            "idDirector": "w004",
+            "Name": "Bob Gale",
+            "DoB": "12/02/1973",
+            "Address": "New York",
+            "Telephone": "62399938"
+        }
+    ],
+
+    "Stars": [{
+        "idStar": "S004",
+        "Name": "Michael J. Fox",
+        "DoB": "22/01/1999",
+        "Address": "Bei Jing",
+        "Telephone": "67863448",
+        "Total": " "
+    }, {
+        "idStar": "S005",
+        "Name": "Christopher Lloyd",
+        "DoB": "12/04/1988",
+        "Address": "Nan Jing",
+        "Telephone": "62477738",
+        "Total": " "
+    }, {
+        "idStar": "S006",
+        "Name": "Lea Thompson",
+        "DoB": "12/05/1974",
+        "Address": "Tokyo",
+        "Telephone": "62447711",
+        "Total": " "
+    }]
+});

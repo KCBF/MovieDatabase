@@ -1,0 +1,58 @@
+db.mdata.insert(
+{
+    "idMovie": "M004",
+    "title": "Pulp Fiction",
+    "year": "1994",
+    "Directors": [
+
+        {
+            "idDirector": "D005",
+            "Name": "Quentin Tarantino",
+            "DoB": "11/02/1974",
+            "Address": "California",
+            "Telephone": "67328568"
+        }
+    ],
+
+    "Writers": [
+
+        {
+            "idWriter": "W006",
+            "Name": "Quentin Tarantino",
+            "DoB": "11/02/1974",
+            "Address": "California",
+            "Telephone": "67328568"
+        },
+
+        {
+            "idDirector": "w007",
+            "Name": "Roger Avary",
+            "DoB": "23/02/1978",
+            "Address": "New York",
+            "Telephone": "62765238"
+        }
+    ],
+
+    "Stars": [{
+        "idStar": "S010",
+        "Name": "John Travolta",
+        "DoB": "22/01/1978",
+        "Address": "Bei Jing",
+        "Telephone": "67345338",
+        "Total": " "
+    }, {
+        "idStar": "S011",
+        "Name": "Uma Thurman",
+        "DoB": "12/04/1983",
+        "Address": "Nan Jing",
+        "Telephone": "62441238",
+        "Total": " "
+    }, {
+        "idStar": "S012",
+        "Name": "Samuel L. Jackson",
+        "DoB": "12/05/1977",
+        "Address": "Tokyo",
+        "Telephone": "62412348",
+        "Total": " "
+    }]
+});

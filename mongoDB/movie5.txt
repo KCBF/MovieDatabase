@@ -1,0 +1,41 @@
+db.mdata.insert(
+{
+    "idMovie": "M005",
+    "title": "Star Wars",
+    "year": "1977",
+    "Directors": [
+        {
+            "idDirector": "D006",
+            "Name": "George Lucas",
+            "DoB": "22/02/1957",
+            "Address": "California",
+            "Telephone": "67868123"
+        }
+    ],
+
+    "Writers": [
+        {
+            "idWriter": "W007",
+            "Name": "George Lucas",
+            "DoB": "22/02/1957",
+            "Address": "California",
+            "Telephone": "67868123"
+        }
+    ],
+
+    "Stars": [{
+        "idStar": "S013",
+        "Name": "Mark Hamill",
+        "DoB": "12/05/1969",
+        "Address": "Bei Jing",
+        "Telephone": "65444248",
+        "Total": " "
+    }, {
+        "idStar": "S014",
+        "Name": "Harrison Ford",
+        "DoB": "12/05/1974",
+        "Address": "Nan Jing",
+        "Telephone": "62489038",
+        "Total": " "
+    }]
+});
